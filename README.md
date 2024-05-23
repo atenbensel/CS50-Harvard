@@ -20,7 +20,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 1    | Mario Less    | C     | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/mario-less.c) | [Walkthrough](x) |
 | 1    | Mario More    | C     | [Repo Link](link_to_repo) | [Walkthrough](x) |
 | 1    | Cash   | C | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/cash.c) | [Walkthrough](x) |
-| 1    | Credit   | C | [Repo Link](link_to_repo) | [Walkthrough](x) |
+| 1    | Credit   | C | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/credit.c) | [Walkthrough](x) |
 | ...  | ...          | ...      | ...       | ...              |
 
 ## Useful Information
