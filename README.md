@@ -8,6 +8,7 @@ ___( o)>
 ```
 
 Thanks for visiting my portfolio repo! Here are my responses to the projects, code, and prompts from Harvard's CS50 course!
+If you find this repo useful, helpful, or informative, please give it a star!
 
 ## Solutions
 
