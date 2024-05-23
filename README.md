@@ -17,7 +17,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | Week | Problem Name | Language | Repo Link | Video Walkthrough |
 |------|--------------|----------|-----------|------------------|
 | 1    | Hello, It's Me    | C  | [Repo Link](link_to_repo) | [Walkthrough](link_to_video) |
-| 1    | Mario Less    | C     | [Repo Link](link_to_repo) | [Walkthrough](link_to_video) |
+| 1    | Mario Less    | C     | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/mario-less.c) | [Walkthrough](link_to_video) |
 | 1    | Mario More    | C     | [Repo Link](link_to_repo) | [Walkthrough](link_to_video) |
 | 1    | Cash   | C | [Repo Link](link_to_repo) | [Walkthrough](link_to_video) |
 | 1    | Credit   | C | [Repo Link](link_to_repo) | [Walkthrough](link_to_video) |
