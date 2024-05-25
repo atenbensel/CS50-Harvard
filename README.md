@@ -21,6 +21,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 1    | Mario More    | C     | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/mario-more.c) | [Walkthrough](x) |
 | 1    | Cash   | C | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/cash.c) | [Walkthrough](x) |
 | 1    | Credit   | C | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/credit.c) | [Walkthrough](x) |
+| 2    | Scrabble   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/scrabble.c)    | [Walkthrough](x)|
 | ...  | ...          | ...      | ...       | ...              |
 
 ## Useful Information
