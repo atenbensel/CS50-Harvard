@@ -23,7 +23,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 1    | Credit   | C | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%201/credit.c) | [Walkthrough](x) |
 | 2    | Scrabble   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/scrabble.c)    | [Walkthrough](x)|
 | 2    | Readability   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/readability.c)    | [Walkthrough](x)|
-| 2    | Caesar   | C   | [Repo Link](x)    | [Walkthrough](x)|
+| 2    | Caesar   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/caesar.c)    | [Walkthrough](x)|
 | 2    | Substitution   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/substitution.c)    | [Walkthrough](x)|
 | ...  | ...          | ...      | ...       | ...              |
 
