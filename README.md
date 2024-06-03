@@ -26,7 +26,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 2    | Caesar   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/caesar.c)    | [Walkthrough](x)|
 | 2    | Substitution   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/substitution.c)    | [Walkthrough](x)|
 | 3    | Sort  | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/sort.c)    | [Walkthrough](x)|
-| 3    | Plurality   | C   | [Repo Link](x)    | [Walkthrough](x)|
+| 3    | Plurality   | C   | [Repo Link]([x](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/plurality.c))    | [Walkthrough](x)|
 | 3    | Runoff   | C   | [Repo Link](x)    | [Walkthrough](x)|
 | 3    | Tideman   | C   | [Repo Link](x)    | [Walkthrough](x)|
 | ...  | ...          | ...      | ...       | ...              |
