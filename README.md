@@ -26,12 +26,12 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 2    | Caesar   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/caesar.c)    | [Walkthrough](x)|
 | 2    | Substitution   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/substitution.c)    | [Walkthrough](x)|
 | 3    | Sort  | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/sort.c)    | [Walkthrough](x)|
-| 3    | Plurality   | C   | [Repo Link]([x](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/plurality.c))    | [Walkthrough](x)|
+| 3    | Plurality   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/plurality.c)   | [Walkthrough](x)|
 | 3    | Runoff   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/runoff.c)    | [Walkthrough](x)|
 | 3    | Tideman   | C   | [Repo Link](x)    | [Walkthrough](x)|
 | ...  | ...          | ...      | ...       | ...              |
 
-https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%202/substitution.c
+
 ## Useful Information
 
 This is a [link to CS50's course](https://pll.harvard.edu/course/cs50-introduction-computer-science)!
