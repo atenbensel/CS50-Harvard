@@ -31,9 +31,9 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 3    | Runoff   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/runoff.c)    | [Walkthrough](x)|
 | 3    | Tideman   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%203/tideman.c)    | [Walkthrough](x)|
 | 4    | Volume  | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%204/volume.c)    | [Walkthrough](x)|
-| 4    | Filter (less)   | C   | [Repo Link](x)   | [Walkthrough](x)|
-| 4    | Filter (more)   | C   | [Repo Link](x)    | [Walkthrough](x)|
-| 4    | Recover   | C   | [Repo Link](x)    | [Walkthrough](x)|
+| 4    | Filter (less)   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%204/filter-less.c)   | [Walkthrough](x)|
+| 4    | Filter (more)   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%204/filter-more.c)    | [Walkthrough](x)|
+| 4    | Recover   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%204/recover.c)    | [Walkthrough](x)|
 | 5    | Inheritance   | C   | [Repo Link](x)    | [Walkthrough](x)|
 | 5    | Speller  | C   | [Repo Link](x)    | [Walkthrough](x)|
 | ...  | ...          | ...      | ...       | ...              |
