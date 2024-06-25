@@ -35,7 +35,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 4    | Filter (more)   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%204/filter-more.c)    | [Walkthrough](x)|
 | 4    | Recover   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%204/recover.c)    | [Walkthrough](x)|
 | 5    | Inheritance   | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%205/inheritance.c)    | [Walkthrough](x)|
-| 5    | Speller  | C   | [Repo Link](x)    | [Walkthrough](x)|
+| 5    | Speller  | C   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%205/speller.c)    | [Walkthrough](x)|
 | 6    | Hello  | Python   | [Repo Link](x)    | [Walkthrough](x)|
 | 6    | Mario Less  | Python   | [Repo Link](x)    | [Walkthrough](x)|
 | 6    | Mario More  | Python   | [Repo Link](x)    | [Walkthrough](x)|
