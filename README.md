@@ -40,7 +40,7 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 6    | Hello  | Python   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%206/hello.py)    | [Walkthrough](x)|
 | 6    | Mario Less  | Python   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%206/mario-less.py)    | [Walkthrough](x)|
 | 6    | Mario More  | Python   | [Repo Link](x)    | [Walkthrough](x)|
-| 6    | Cash  | Python   | [Repo Link](x)    | [Walkthrough](x)|
+| 6    | Cash  | Python   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%206/cash.py)    | [Walkthrough](x)|
 | 6    | Credit  | Python   | [Repo Link](x)    | [Walkthrough](x)|
 | 6    | Readability  | Python   | [Repo Link](x)    | [Walkthrough](x)|
 | 6    | DNA  | Python   | [Repo Link](x)    | [Walkthrough](x)|
