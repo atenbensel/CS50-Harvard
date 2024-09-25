@@ -44,6 +44,13 @@ This is the table of solutions with corresponding names, languages, repo links, 
 | 6    | Readability  | Python   | [Repo Link](https://github.com/atenbensel/CS50-Harvard/blob/main/Problem%20Set%206/readability.py)    | [Walkthrough](x)|
 | 6    | DNA  | Python   | [Repo Link](x)    | [Walkthrough](x)|
 | ...  | ...          | ...      | ...       | ...              |
+| ...  | ...          | ...      | ...       | ...              |
+| ...  | ...          | ...      | ...       | ...              |
+| ...  | ...          | ...      | ...       | ...              |
+| ...  | ...          | ...      | ...       | ...              |
+| ...  | ...          | ...      | ...       | ...              |
+
+
 
 ## Useful Information
 
