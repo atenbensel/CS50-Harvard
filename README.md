@@ -12,8 +12,6 @@ If you find this repo useful, helpful, or informative, please give it a star!
 
 
 
-
-
 ## Solutions
 
 This is the table of solutions with corresponding names, languages, repo links, and my description of my solution to the prompts.
